@@ -5,7 +5,7 @@ export const projects = [
     description:
     "BMI Tracker is a web app based on MERN technologies where user can create account and they can check their BMI and its risk management and they can easily track their previous BMIs.",
 
-    image: "./project-1.gif",
+    image: "./Project-1.gif",
     // link: "https://reactbootcamp.com",
   },
   {
@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
     'Ek link is a web app where user will create account and make their profile which includes theme selection, and their profession. It will help the user to keep their links at one place whether social media links or business links and these links can be easily shared. ',
-    image: "./project-2.gif",
+    image: "./Project-2.gif",
     // link: "https://reactbootcamp.com",
   },
   {
@@ -21,7 +21,7 @@ export const projects = [
     subtitle: "MERN stack",
     description:
     'It is a kind of form which can be created according to the required questions for the user. It is currently made for the purpose of loan application.',
-    image: "./project-3.gif",
+    image: "./Project-3.gif",
     // link: "https://reactbootcamp.com",
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     subtitle: "HTML-CSS & JavaScript",
     description:
     'This is an amazing to do list web app where user can add, edit or remove todos. It has amazing UI and user friendly.',
-    image: "./project-4.gif",
+    image: "./Project-4.gif",
     // link: "https://reactbootcamp.com",
   },
 ];
