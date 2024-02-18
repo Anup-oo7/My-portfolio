@@ -17,10 +17,11 @@ export const projects = [
     // link: "https://reactbootcamp.com",
   },
   {
-    title: "Dynamic Form",
+    title: "URL shortner",
     subtitle: "MERN stack",
     description:
-    'It is a kind of form which can be created according to the required questions for the user. It is currently made for the purpose of loan application.',
+    'A MERN project where user can shorten their long URLs and can have more readable and editable links. User can create a secure account with their email id. A web app where user can add, edit and remove number of URLs with unique modified and more convenient name',
+
     image: "./Project-3.gif",
     // link: "https://reactbootcamp.com",
   },
