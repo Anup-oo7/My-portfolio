@@ -11,9 +11,9 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          "Passionate MERN stack developer with a flair for crafting seamless user experiences. Proficient in MongoDB, 
+           Express.js, React, and Node.js, adept at turning ideas into scalable and efficient web applications. Ready to innovate 
+           and collaborate in dynamic tech environments."
           </p>
           <div className="flex justify-center">
             <a
