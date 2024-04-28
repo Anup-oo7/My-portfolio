@@ -58,6 +58,7 @@ export const skills = [
   "Node Js",
   "Express js",
   "Mongo DB",
+  "Python",
   "Material UI",
   "BootStrap",
   "HTML & CSS"
